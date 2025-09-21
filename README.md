@@ -3,7 +3,9 @@
 BookMyShow-DB-CaseStudy
 ├── README.md
 ├── BookMyShow.sql
-└── Solution_Document.docx
+└── Solution_Document.docx Google docs's Link is provided
+
+https://docs.google.com/document/d/1HdZZJHhWDnvBzY9QHaVIK9BatvNss9ok31fNL7eoBRI/edit?usp=sharing
 
 ## Project Overview
 This project provides a database solution for a BookMyShow-like movie ticketing platform, where users can book tickets for movie shows.  
